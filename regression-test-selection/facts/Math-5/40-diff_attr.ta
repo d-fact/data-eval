@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero(0)" "e54a1c92302f3167b06bc04859b87ac0681bcdf3") { name = "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero()" commit_parent = "f5bcba812fb8bc59ff5e4bc055811039b610aa2b" commit = "e54a1c92302f3167b06bc04859b87ac0681bcdf3" }
+(Update "org.apache.commons.math3.complex.Complex.reciprocal(0)" "e54a1c92302f3167b06bc04859b87ac0681bcdf3") { name = "org.apache.commons.math3.complex.Complex.reciprocal()" commit_parent = "f5bcba812fb8bc59ff5e4bc055811039b610aa2b" commit = "e54a1c92302f3167b06bc04859b87ac0681bcdf3" }

@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math.analysis.solvers.BisectionSolver.solve(4)" "f41fcd85ca62a2109a6e550be0353d292d351213") { name = "org.apache.commons.math.analysis.solvers.BisectionSolver.solve(UnivariateRealFunction,double,double,double)" commit_parent = "f184aeb7810bed8c89b2c8cca4f8164aef535e56" commit = "f41fcd85ca62a2109a6e550be0353d292d351213" }
+(Insert "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369(0)" "f41fcd85ca62a2109a6e550be0353d292d351213") { name = "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369()" commit_parent = "f184aeb7810bed8c89b2c8cca4f8164aef535e56" commit = "f41fcd85ca62a2109a6e550be0353d292d351213" }

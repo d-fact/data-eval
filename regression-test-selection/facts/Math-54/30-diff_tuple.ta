@@ -1,0 +1,13 @@
+FACT TUPLE :
+Insert "org.apache.commons.math.dfp.DfpTest.testIssue567(0)" "c00ac8120a4215125e49775cd9351e689586b467"
+Update "org.apache.commons.math.dfp.Dfp.Dfp(2)" "c00ac8120a4215125e49775cd9351e689586b467"
+Update "org.apache.commons.math.dfp.Dfp.toDouble(0)" "c00ac8120a4215125e49775cd9351e689586b467"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

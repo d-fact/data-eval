@@ -1,0 +1,13 @@
+FACT TUPLE :
+Insert "org.joda.time.format.TestISOPeriodFormat.testFormatStandard_negative(0)" "5d08a1cdbfa6ce86a0baf637493c464e91e91968"
+Update "org.joda.time.format.PeriodFormatterBuilder.FieldFormatter.printTo(3)" "5d08a1cdbfa6ce86a0baf637493c464e91e91968"
+Update "org.joda.time.format.PeriodFormatterBuilder.FieldFormatter.calculatePrintedLength(2)" "5d08a1cdbfa6ce86a0baf637493c464e91e91968"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

@@ -1,0 +1,13 @@
+FACT TUPLE :
+Insert "org.joda.time.chrono.TestGJChronology.testLeapYearRulesConstructionInvalid(0)" "b609d7d66d180f2eb537b27f5d605d0596e096ce"
+Insert "org.joda.time.chrono.TestGJChronology.testLeapYearRulesConstruction(0)" "b609d7d66d180f2eb537b27f5d605d0596e096ce"
+Update "org.joda.time.chrono.GJChronology.getDateTimeMillis(7)" "b609d7d66d180f2eb537b27f5d605d0596e096ce"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

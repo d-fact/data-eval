@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Insert "org.apache.commons.lang.StringUtilsEqualsIndexOfTest.testContainsIgnoreCase_LocaleIndependence(0)" "8b1a8e178abb46cc048a3982636b8ec4e6ffc8dc") { name = "org.apache.commons.lang.StringUtilsEqualsIndexOfTest.testContainsIgnoreCase_LocaleIndependence()" commit_parent = "c72adf1b7592f302b8abefdb3b2f95782cc75aa2" commit = "8b1a8e178abb46cc048a3982636b8ec4e6ffc8dc" }
+(Update "org.apache.commons.lang.StringUtils.containsIgnoreCase(2)" "8b1a8e178abb46cc048a3982636b8ec4e6ffc8dc") { name = "org.apache.commons.lang.StringUtils.containsIgnoreCase(String,String)" commit_parent = "c72adf1b7592f302b8abefdb3b2f95782cc75aa2" commit = "8b1a8e178abb46cc048a3982636b8ec4e6ffc8dc" }

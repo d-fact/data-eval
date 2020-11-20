@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math3.optimization.linear.SimplexTableau.dropPhase1Objective(0)" "3ef79313597d7d49067c48d65a09042d8d94822d") { name = "org.apache.commons.math3.optimization.linear.SimplexTableau.dropPhase1Objective()" commit_parent = "e5c7e4055ab2a40cb107a7ebd33766867325d5cc" commit = "3ef79313597d7d49067c48d65a09042d8d94822d" }
+(Insert "org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath781(0)" "3ef79313597d7d49067c48d65a09042d8d94822d") { name = "org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath781()" commit_parent = "e5c7e4055ab2a40cb107a7ebd33766867325d5cc" commit = "3ef79313597d7d49067c48d65a09042d8d94822d" }

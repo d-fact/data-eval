@@ -1,0 +1,17 @@
+FACT TUPLE :
+Update "org.apache.commons.math.linear.SingularValueDecompositionImpl.getV(0)" "39e2ad8af8fdedac51144158061cb31e7863c3a1"
+Update "org.apache.commons.math.linear.SingularValueSolverTest.testMath320B(0)" "39e2ad8af8fdedac51144158061cb31e7863c3a1"
+Delete "org.apache.commons.math.linear.SingularValueSolverTest.regularElements(1)" "39e2ad8af8fdedac51144158061cb31e7863c3a1"
+Insert "org.apache.commons.math.linear.SingularValueSolverTest.residual(3)" "39e2ad8af8fdedac51144158061cb31e7863c3a1"
+Update "org.apache.commons.math.linear.SingularValueDecompositionImpl.getU(0)" "39e2ad8af8fdedac51144158061cb31e7863c3a1"
+Update "org.apache.commons.math.linear.SingularValueSolverTest.testMath320A(0)" "39e2ad8af8fdedac51144158061cb31e7863c3a1"
+Insert "org.apache.commons.math.linear.SingularValueSolverTest.testTruncated(0)" "39e2ad8af8fdedac51144158061cb31e7863c3a1"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

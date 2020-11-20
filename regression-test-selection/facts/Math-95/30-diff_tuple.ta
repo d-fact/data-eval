@@ -1,0 +1,12 @@
+FACT TUPLE :
+Update "org.apache.commons.math.distribution.FDistributionImpl.getInitialDomain(1)" "fbf87122e0f7229892b6dbbf2e211cc46acea008"
+Insert "org.apache.commons.math.distribution.FDistributionTest.testSmallDegreesOfFreedom(0)" "fbf87122e0f7229892b6dbbf2e211cc46acea008"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

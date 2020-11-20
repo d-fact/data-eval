@@ -1,0 +1,12 @@
+FACT TUPLE :
+Update "org.apache.commons.math.optimization.linear.SimplexSolver.getPivotRow(2)" "4ece1884cc408e15c8f1db9010fec5cac43937b9"
+Insert "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath288(0)" "4ece1884cc408e15c8f1db9010fec5cac43937b9"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

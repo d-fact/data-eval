@@ -1,0 +1,5 @@
+FACT TUPLE :
+Inherit "org.apache.flume.source.taildir.TestTaildirMatcher" "java.lang.Object"
+Inherit "org.apache.flume.source.taildir.TestTaildirSource" "java.lang.Object"
+Inherit "org.apache.flume.source.taildir.TestTaildirMatcher.1" "java.lang.Object"
+Inherit "org.apache.flume.source.taildir.TestTaildirEventReader" "java.lang.Object"

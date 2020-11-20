@@ -1,0 +1,5 @@
+FACT ATTRIBUTE :
+(Delete "org.apache.commons.lang3.ArrayUtilsAddTest.suite(0)" "ea140fb5c327e2b58f6c5bf1057c7dede909a50c") { name = "org.apache.commons.lang3.ArrayUtilsAddTest.suite()" commit_parent = "b5906d3f325ca3a1147d5fa68912975e2e6c347e" commit = "ea140fb5c327e2b58f6c5bf1057c7dede909a50c" }
+(Insert "org.apache.commons.lang3.ArrayUtilsAddTest.testJira567(0)" "ea140fb5c327e2b58f6c5bf1057c7dede909a50c") { name = "org.apache.commons.lang3.ArrayUtilsAddTest.testJira567()" commit_parent = "b5906d3f325ca3a1147d5fa68912975e2e6c347e" commit = "ea140fb5c327e2b58f6c5bf1057c7dede909a50c" }
+(Update "org.apache.commons.lang3.ArrayUtils.addAll(2)" "ea140fb5c327e2b58f6c5bf1057c7dede909a50c") { name = "org.apache.commons.lang3.ArrayUtils.addAll(T[],T...)" commit_parent = "b5906d3f325ca3a1147d5fa68912975e2e6c347e" commit = "ea140fb5c327e2b58f6c5bf1057c7dede909a50c" }
+(Delete "org.apache.commons.lang3.ArrayUtilsAddTest.main(1)" "ea140fb5c327e2b58f6c5bf1057c7dede909a50c") { name = "org.apache.commons.lang3.ArrayUtilsAddTest.main(String[])" commit_parent = "b5906d3f325ca3a1147d5fa68912975e2e6c347e" commit = "ea140fb5c327e2b58f6c5bf1057c7dede909a50c" }

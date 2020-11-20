@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.apache.commons.math3.util.FastMath.pow(2)" "b221a7342856a2a548f5d9817055defc0ec4dea6"
+Insert "org.apache.commons.math3.util.FastMath.TWO_POWER_53" "b221a7342856a2a548f5d9817055defc0ec4dea6"
+Insert "org.apache.commons.math3.util.FastMathTest.testMath904(0)" "b221a7342856a2a548f5d9817055defc0ec4dea6"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

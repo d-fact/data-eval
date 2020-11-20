@@ -1,0 +1,3 @@
+FACT TUPLE :
+Coverage "test" "org.apache.commons.lang3.StringUtils.getFuzzyDistance(3)"
+Coverage "test" "org.apache.commons.lang3.StringUtils"

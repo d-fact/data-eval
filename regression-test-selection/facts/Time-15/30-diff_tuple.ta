@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.joda.time.field.FieldUtils.safeMultiply(2)" "0cefc4c212e92e5dccdfa658785c419483317558"
+Insert "org.joda.time.field.TestFieldUtils.testSafeMultiplyLongInt(0)" "0cefc4c212e92e5dccdfa658785c419483317558"
+Update "org.joda.time.field.FieldUtils.safeMultiply(2)" "0cefc4c212e92e5dccdfa658785c419483317558"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

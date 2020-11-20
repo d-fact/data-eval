@@ -1,0 +1,12 @@
+FACT TUPLE :
+Update "org.apache.commons.math3.optimization.linear.SimplexTableau.dropPhase1Objective(0)" "3ef79313597d7d49067c48d65a09042d8d94822d"
+Insert "org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath781(0)" "3ef79313597d7d49067c48d65a09042d8d94822d"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

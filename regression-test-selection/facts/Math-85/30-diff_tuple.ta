@@ -1,0 +1,13 @@
+FACT TUPLE :
+Insert "org.apache.commons.math.distribution.NormalDistributionTest.testMath280(0)" "9be86f674f91fa3fe0a8694e7b98472dabe6886d"
+Update "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils.bracket(5)" "9be86f674f91fa3fe0a8694e7b98472dabe6886d"
+Delete "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtilsTest.testBracketCornerSolution(0)" "9be86f674f91fa3fe0a8694e7b98472dabe6886d"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

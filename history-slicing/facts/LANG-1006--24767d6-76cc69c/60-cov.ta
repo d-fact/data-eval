@@ -1,0 +1,5 @@
+FACT TUPLE :
+Coverage "test" "org.apache.commons.lang3.StringUtils.wrap(2)"
+Coverage "test" "org.apache.commons.lang3.StringUtils.isEmpty(1)"
+Coverage "test" "org.apache.commons.lang3.StringUtils"
+Coverage "test" "org.apache.commons.lang3.StringUtils.wrap(2)"

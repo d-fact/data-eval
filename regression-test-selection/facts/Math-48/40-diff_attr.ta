@@ -1,0 +1,2 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math.analysis.solvers.BaseSecantSolver.doSolve(0)" "13d22f45624470ce5c07c085cf8b1ec0251eaee6") { name = "org.apache.commons.math.analysis.solvers.BaseSecantSolver.doSolve()" commit_parent = "2af72281fcb919dac92b0c4e464f847adda23be1" commit = "13d22f45624470ce5c07c085cf8b1ec0251eaee6" }

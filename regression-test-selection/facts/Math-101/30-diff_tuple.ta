@@ -1,0 +1,12 @@
+FACT TUPLE :
+Update "org.apache.commons.math.complex.ComplexFormat.parse(2)" "32643d19538ad853a1280eb4060c4f15ac6dc3dd"
+Insert "org.apache.commons.math.complex.ComplexFormatAbstractTest.testForgottenImaginaryCharacter(0)" "32643d19538ad853a1280eb4060c4f15ac6dc3dd"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

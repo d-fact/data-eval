@@ -1,0 +1,16 @@
+FACT TUPLE :
+Update "org.apache.commons.math.optimization.linear.SimplexTableau.getBasicRow(1)" "f36be8e8b7371fb8814456b6c095866aa802de78"
+Update "org.apache.commons.math.optimization.linear.SimplexTableau.getSolution(0)" "f36be8e8b7371fb8814456b6c095866aa802de78"
+Insert "org.apache.commons.math.optimization.linear.SimplexTableau.getBasicRow(2)" "f36be8e8b7371fb8814456b6c095866aa802de78"
+Insert "org.apache.commons.math.optimization.linear.SimplexTableau.getBasicRowForSolution(1)" "f36be8e8b7371fb8814456b6c095866aa802de78"
+Insert "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath286(0)" "f36be8e8b7371fb8814456b6c095866aa802de78"
+Insert "org.apache.commons.math.optimization.linear.SimplexTableau.getNegativeDecisionVariableOffset(0)" "f36be8e8b7371fb8814456b6c095866aa802de78"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

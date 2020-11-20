@@ -1,0 +1,12 @@
+FACT TUPLE :
+Update "org.apache.commons.math.analysis.solvers.BisectionSolver.solve(4)" "f41fcd85ca62a2109a6e550be0353d292d351213"
+Insert "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369(0)" "f41fcd85ca62a2109a6e550be0353d292d351213"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

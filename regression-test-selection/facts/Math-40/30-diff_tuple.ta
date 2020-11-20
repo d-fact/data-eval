@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver.doSolve(0)" "c8becc7c47963bcdc1578298846ad6fbf08f64ef"
+Insert "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolverTest.testIssue716(0)" "c8becc7c47963bcdc1578298846ad6fbf08f64ef"
+Update "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolverTest.getQuinticEvalCounts(0)" "c8becc7c47963bcdc1578298846ad6fbf08f64ef"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizer.getFunctionValue(0)" "fc505bba569dede0d29a401798fa9f55df9e27f1"
+Update "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizer.getResult(0)" "fc505bba569dede0d29a401798fa9f55df9e27f1"
+Update "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin(0)" "fc505bba569dede0d29a401798fa9f55df9e27f1"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

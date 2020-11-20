@@ -1,0 +1,4 @@
+FACT ATTRIBUTE :
+(Insert "org.apache.commons.math.dfp.DfpTest.testIssue567(0)" "c00ac8120a4215125e49775cd9351e689586b467") { name = "org.apache.commons.math.dfp.DfpTest.testIssue567()" commit_parent = "804309e5c5726ad22b0c74dfccdb1ed318f0a108" commit = "c00ac8120a4215125e49775cd9351e689586b467" }
+(Update "org.apache.commons.math.dfp.Dfp.Dfp(2)" "c00ac8120a4215125e49775cd9351e689586b467") { name = "org.apache.commons.math.dfp.Dfp.Dfp(DfpField,double)" commit_parent = "804309e5c5726ad22b0c74dfccdb1ed318f0a108" commit = "c00ac8120a4215125e49775cd9351e689586b467" }
+(Update "org.apache.commons.math.dfp.Dfp.toDouble(0)" "c00ac8120a4215125e49775cd9351e689586b467") { name = "org.apache.commons.math.dfp.Dfp.toDouble()" commit_parent = "804309e5c5726ad22b0c74dfccdb1ed318f0a108" commit = "c00ac8120a4215125e49775cd9351e689586b467" }

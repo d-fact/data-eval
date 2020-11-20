@@ -1,0 +1,14 @@
+FACT TUPLE :
+Update "org.apache.commons.math.linear.EigenDecompositionImpl.processGeneralBlock(1)" "7d903ca533833e5db8d2fe150f1e31b54ddda700"
+Insert "org.apache.commons.math.linear.EigenDecompositionImplTest.testMath308(0)" "7d903ca533833e5db8d2fe150f1e31b54ddda700"
+Update "org.apache.commons.math.linear.EigenDecompositionImpl.computeShiftIncrement(3)" "7d903ca533833e5db8d2fe150f1e31b54ddda700"
+Update "org.apache.commons.math.linear.EigenDecompositionImpl.computeGershgorinCircles(0)" "7d903ca533833e5db8d2fe150f1e31b54ddda700"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

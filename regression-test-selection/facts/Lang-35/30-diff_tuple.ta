@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.apache.commons.lang3.ArrayUtils.add(3)" "80bd78ea0685d28ddec9b8162d652db9dec949ce"
+Update "org.apache.commons.lang3.ArrayUtils.add(2)" "80bd78ea0685d28ddec9b8162d652db9dec949ce"
+Insert "org.apache.commons.lang3.ArrayUtilsAddTest.testLANG571(0)" "80bd78ea0685d28ddec9b8162d652db9dec949ce"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

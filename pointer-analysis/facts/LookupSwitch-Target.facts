@@ -1,0 +1,13 @@
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	110	7
+<org.apache.commons.csv.CSVPrinter: void printComment(java.lang.String)>/switch/instruction24	13	25
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	9	15
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	114	5
+<org.apache.commons.csv.CSVPrinter: void printComment(java.lang.String)>/switch/instruction24	10	32
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	-1	16
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	8	15
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	116	9
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	13	15
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	12	15
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	10	15
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	102	13
+<org.apache.commons.csv.Lexer: int readEscape()>/switch/instruction4	98	11

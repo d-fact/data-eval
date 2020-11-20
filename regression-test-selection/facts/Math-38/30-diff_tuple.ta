@@ -1,0 +1,16 @@
+FACT TUPLE :
+Update "org.apache.commons.math.optimization.direct.BOBYQAOptimizer.prelim(2)" "91cc42ba0493938aa53585720b315b62c5784a96"
+Update "org.apache.commons.math.optimization.direct.BOBYQAOptimizerTest.doTest(8)" "91cc42ba0493938aa53585720b315b62c5784a96"
+Insert "org.apache.commons.math.optimization.direct.BOBYQAOptimizerTest.doTest(10)" "91cc42ba0493938aa53585720b315b62c5784a96"
+Delete "org.apache.commons.math.optimization.direct.PathIsExploredException" "91cc42ba0493938aa53585720b315b62c5784a96"
+Insert "org.apache.commons.math.optimization.direct.BOBYQAOptimizerTest.testConstrainedRosenWithMoreInterpolationPoints(0)" "91cc42ba0493938aa53585720b315b62c5784a96"
+Insert "org.apache.commons.math.optimization.direct.BOBYQAOptimizer.PathIsExploredException" "91cc42ba0493938aa53585720b315b62c5784a96"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

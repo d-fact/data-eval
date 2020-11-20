@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.lang.Entities.escape(2)" "dd2ae757d12554f290931f0b3c05e33ad993ecd1") { name = "org.apache.commons.lang.Entities.escape(Writer,String)" commit_parent = "68217617c54467c7c6098168e714a2fb6a48847d" commit = "dd2ae757d12554f290931f0b3c05e33ad993ecd1" }
+(Insert "org.apache.commons.lang.StringEscapeUtilsTest.testEscapeHtmlHighUnicode(0)" "dd2ae757d12554f290931f0b3c05e33ad993ecd1") { name = "org.apache.commons.lang.StringEscapeUtilsTest.testEscapeHtmlHighUnicode()" commit_parent = "68217617c54467c7c6098168e714a2fb6a48847d" commit = "dd2ae757d12554f290931f0b3c05e33ad993ecd1" }

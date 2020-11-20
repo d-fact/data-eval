@@ -1,0 +1,13 @@
+FACT TUPLE :
+Coverage "test" "org.apache.commons.lang3.StringUtils.join(2)"
+Coverage "test" "org.apache.commons.lang3.StringUtils.countMatches(2)"
+Coverage "test" "org.apache.commons.lang3.StringUtils.isEmpty(1)"
+Coverage "test" "org.apache.commons.lang3.StringUtils.join(4)"
+Coverage "test" "org.apache.commons.lang3.ClassUtils.getAbbreviatedName(2)"
+Coverage "test" "org.apache.commons.lang3.StringUtils"
+Coverage "test" "org.apache.commons.lang3.ClassUtils.getAbbreviatedName(2)"
+Coverage "test" "org.apache.commons.lang3.ClassUtils.PACKAGE_SEPARATOR"
+Coverage "test" "org.apache.commons.lang3.ClassUtils.wrapperPrimitiveMap"
+Coverage "test" "org.apache.commons.lang3.ClassUtils"
+Coverage "test" "org.apache.commons.lang3.ClassUtils.INNER_CLASS_SEPARATOR"
+Coverage "test" "org.apache.commons.lang3.ClassUtils.primitiveWrapperMap"

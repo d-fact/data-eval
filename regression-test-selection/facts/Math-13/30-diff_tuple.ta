@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.apache.commons.math3.optimization.Weight.Weight(1)" "8079ea5b8d1366445da532906e43afa9291473cf"
+Update "org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizer.squareRoot(1)" "8079ea5b8d1366445da532906e43afa9291473cf"
+Insert "org.apache.commons.math3.optimization.fitting.PolynomialFitterTest.testLargeSample(0)" "8079ea5b8d1366445da532906e43afa9291473cf"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer.chooseInitialCenters(3)" "00fea9d8078d487e31cec8292dbd9bd69bc9c216"
+Insert "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.CloseIntegerPoint" "00fea9d8078d487e31cec8292dbd9bd69bc9c216"
+Insert "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testSmallDistances(0)" "00fea9d8078d487e31cec8292dbd9bd69bc9c216"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

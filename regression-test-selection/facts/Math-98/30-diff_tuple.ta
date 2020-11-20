@@ -1,0 +1,14 @@
+FACT TUPLE :
+Update "org.apache.commons.math.linear.BigMatrixImpl.operate(1)" "a0f3e0435c405ec842240413e2165863c9c76a16"
+Insert "org.apache.commons.math.linear.BigMatrixImplTest.testMath209(0)" "a0f3e0435c405ec842240413e2165863c9c76a16"
+Insert "org.apache.commons.math.linear.RealMatrixImplTest.testMath209(0)" "a0f3e0435c405ec842240413e2165863c9c76a16"
+Update "org.apache.commons.math.linear.RealMatrixImpl.operate(1)" "a0f3e0435c405ec842240413e2165863c9c76a16"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

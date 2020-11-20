@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Insert "org.apache.commons.math.geometry.Vector3DTest.testCrossProductCancellation(0)" "0c38504ffa3ef520ce78e260538d7b8742c895e8") { name = "org.apache.commons.math.geometry.Vector3DTest.testCrossProductCancellation()" commit_parent = "3114d4ed4654f54fc1ee8e3c3da5b6cd1cd2cc87" commit = "0c38504ffa3ef520ce78e260538d7b8742c895e8" }
+(Update "org.apache.commons.math.geometry.Vector3D.crossProduct(2)" "0c38504ffa3ef520ce78e260538d7b8742c895e8") { name = "org.apache.commons.math.geometry.Vector3D.crossProduct(Vector3D,Vector3D)" commit_parent = "3114d4ed4654f54fc1ee8e3c3da5b6cd1cd2cc87" commit = "0c38504ffa3ef520ce78e260538d7b8742c895e8" }

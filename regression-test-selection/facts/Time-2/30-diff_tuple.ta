@@ -1,0 +1,16 @@
+FACT TUPLE :
+Update "org.joda.time.Partial.with(2)" "8612f9e5b88c1bea933ef9ab1e431f5db3006b48"
+Update "org.joda.time.Partial.Partial(3)" "8612f9e5b88c1bea933ef9ab1e431f5db3006b48"
+Insert "org.joda.time.TestPartial_Basics.testWith_baseHasNoRange(0)" "8612f9e5b88c1bea933ef9ab1e431f5db3006b48"
+Update "org.joda.time.field.UnsupportedDurationField.compareTo(1)" "8612f9e5b88c1bea933ef9ab1e431f5db3006b48"
+Insert "org.joda.time.TestPartial_Basics.testWith_argHasNoRange(0)" "8612f9e5b88c1bea933ef9ab1e431f5db3006b48"
+Insert "org.joda.time.TestPartial_Basics.testWith_baseAndArgHaveNoRange(0)" "8612f9e5b88c1bea933ef9ab1e431f5db3006b48"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

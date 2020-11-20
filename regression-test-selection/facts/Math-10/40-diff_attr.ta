@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math3.analysis.differentiation.DSCompiler.atan2(6)" "7e2ffcc9034de41d7787f0b33b5670474f7a10de") { name = "org.apache.commons.math3.analysis.differentiation.DSCompiler.atan2(double[],int,double[],int,double[],int)" commit_parent = "d2a916e325a1c47f12137ea902aaac100ed1f5db" commit = "7e2ffcc9034de41d7787f0b33b5670474f7a10de" }
+(Insert "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases(0)" "7e2ffcc9034de41d7787f0b33b5670474f7a10de") { name = "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases()" commit_parent = "d2a916e325a1c47f12137ea902aaac100ed1f5db" commit = "7e2ffcc9034de41d7787f0b33b5670474f7a10de" }

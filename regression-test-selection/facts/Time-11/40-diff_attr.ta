@@ -1,0 +1,4 @@
+FACT ATTRIBUTE :
+(Insert "org.joda.time.tz.TestCompiler.testDateTimeZoneBuilder(0)" "57eb4cbb9044771cd46a9eee0c62016618930226") { name = "org.joda.time.tz.TestCompiler.testDateTimeZoneBuilder()" commit_parent = "6d5104753470c130336e319a64009c0553b29c96" commit = "57eb4cbb9044771cd46a9eee0c62016618930226" }
+(Insert "org.joda.time.tz.TestCompiler.getTestDataTimeZoneBuilder(0)" "57eb4cbb9044771cd46a9eee0c62016618930226") { name = "org.joda.time.tz.TestCompiler.getTestDataTimeZoneBuilder()" commit_parent = "6d5104753470c130336e319a64009c0553b29c96" commit = "57eb4cbb9044771cd46a9eee0c62016618930226" }
+(Update "org.joda.time.tz.ZoneInfoCompiler.cVerbose" "57eb4cbb9044771cd46a9eee0c62016618930226") { name = "org.joda.time.tz.ZoneInfoCompiler.cVerbose : ThreadLocal<Boolean>" commit_parent = "6d5104753470c130336e319a64009c0553b29c96" commit = "57eb4cbb9044771cd46a9eee0c62016618930226" }

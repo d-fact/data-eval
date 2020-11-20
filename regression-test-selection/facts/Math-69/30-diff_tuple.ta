@@ -1,0 +1,12 @@
+FACT TUPLE :
+Update "org.apache.commons.math.stat.correlation.PearsonsCorrelation.getCorrelationPValues(0)" "a2711c189d9754c22e3aba2de1c6c125e52626aa"
+Insert "org.apache.commons.math.stat.correlation.PearsonsCorrelationTest.testPValueNearZero(0)" "a2711c189d9754c22e3aba2de1c6c125e52626aa"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

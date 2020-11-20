@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.apache.commons.math.ode.AbstractIntegrator.acceptStep(4)" "53c8cec5ceb4cd81e3f9b8858814accac83a324e"
+Insert "org.apache.commons.math.ode.events.EventStateTest.testIssue695(0)" "53c8cec5ceb4cd81e3f9b8858814accac83a324e"
+Insert "org.apache.commons.math.ode.events.EventStateTest.ResettingEvent" "53c8cec5ceb4cd81e3f9b8858814accac83a324e"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

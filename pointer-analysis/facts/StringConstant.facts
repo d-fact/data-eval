@@ -1,0 +1,50 @@
+org.apache.commons
+ALL
+\r\n
+reader
+\\"\u2028\\"
+groupId
+NON_NUMERIC
+The comment start marker character cannot be a line break
+Excel
+MySQL
+InformixUnloadCsv
+NONE
+TOKEN
+commons-csv
+CSVParser has been closed
+format
+1.3.1-SNAPSHOT
+<<\\"\\">>
+version
+<<\\" IgnoreHeaderCase:ignored\\">>
+<<\\" EmptyLines:ignored\\">>
+RFC4180
+The escape character cannot be a line break
+MINIMAL
+charset
+string
+/home/wuxh/Projects/diff-point-to-analysis/.test/commons-csv/.dpad/tse-10vers/bytecode/7310e5c61e7550835eb37ef89e8423cbcde0a2b1.jar
+No header mapping was specified, the record values can\'t be accessed by name
+INVALID
+COMMENT
+<<\\" SurroundingSpaces:ignored\\">>
+\\N
+out
+file
+The quoteChar cannot be a line break
+TDF
+artifactId
+EOF
+\\"\\"
+\\"\u2029\\"
+\\"\u0085\\"
+No more CSV records available
+Default
+EORECORD
+url
+No quotes mode set but no escape character is set
+\\"\r\n\\"
+The delimiter cannot be a line break
+EOF whilst processing escape sequence
+InformixUnload

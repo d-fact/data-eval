@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math.util.FastMath.max(2)" "5dcca48038fb6274cc155251d09db12746ccce71") { name = "org.apache.commons.math.util.FastMath.max(float,float)" commit_parent = "ffcaeb072fe0789bb9a64f8488ce9df742ba7da9" commit = "5dcca48038fb6274cc155251d09db12746ccce71" }
+(Update "org.apache.commons.math.util.FastMathTest.testMinMaxFloat(0)" "5dcca48038fb6274cc155251d09db12746ccce71") { name = "org.apache.commons.math.util.FastMathTest.testMinMaxFloat()" commit_parent = "ffcaeb072fe0789bb9a64f8488ce9df742ba7da9" commit = "5dcca48038fb6274cc155251d09db12746ccce71" }

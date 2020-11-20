@@ -1,0 +1,16 @@
+FACT TUPLE :
+Insert "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.CharU20001" "38bf7048571f3bc8dd34d14691906426444e4381"
+Insert "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.CharU20000" "38bf7048571f3bc8dd34d14691906426444e4381"
+Insert "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testContainsAnyStringWithSupplementaryChars(0)" "38bf7048571f3bc8dd34d14691906426444e4381"
+Insert "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testContainsAnyCharArrayWithSupplementaryChars(0)" "38bf7048571f3bc8dd34d14691906426444e4381"
+Update "org.apache.commons.lang3.StringUtils.containsAny(2)" "38bf7048571f3bc8dd34d14691906426444e4381"
+Insert "org.apache.commons.lang3.StringUtilsEqualsIndexOfTest.testContainsStringWithSupplementaryChars(0)" "38bf7048571f3bc8dd34d14691906426444e4381"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

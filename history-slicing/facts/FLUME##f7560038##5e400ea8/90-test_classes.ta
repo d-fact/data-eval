@@ -1,0 +1,5 @@
+FACT TUPLE :
+TestClass "org.apache.flume.source.taildir.TestTaildirMatcher" NULL
+TestClass "org.apache.flume.source.taildir.TestTaildirEventReader" NULL
+TestClass "org.apache.flume.source.taildir.TestTaildirSource" NULL
+TestClass "org.apache.flume.source.taildir.TestTaildirMatcher.1" NULL

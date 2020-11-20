@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.apache.commons.math3.dfp.Dfp.multiply(1)" "621806b796bc416f00341feca894ebae07be5ed0"
+Insert "org.apache.commons.math3.dfp.Dfp.multiplyFast(1)" "621806b796bc416f00341feca894ebae07be5ed0"
+Update "org.apache.commons.math3.dfp.DfpTest.testMultiply(0)" "621806b796bc416f00341feca894ebae07be5ed0"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

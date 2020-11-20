@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Insert "org.apache.commons.math3.fraction.FractionTest.testMath835(0)" "5f2077bb774d283e7984a2d5dc0c2759f2954963") { name = "org.apache.commons.math3.fraction.FractionTest.testMath835()" commit_parent = "d3fc5af31eb696af03cfbe2e18584c7e1d307d54" commit = "5f2077bb774d283e7984a2d5dc0c2759f2954963" }
+(Update "org.apache.commons.math3.fraction.Fraction.percentageValue(0)" "5f2077bb774d283e7984a2d5dc0c2759f2954963") { name = "org.apache.commons.math3.fraction.Fraction.percentageValue()" commit_parent = "d3fc5af31eb696af03cfbe2e18584c7e1d307d54" commit = "5f2077bb774d283e7984a2d5dc0c2759f2954963" }

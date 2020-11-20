@@ -1,0 +1,17 @@
+FACT TUPLE :
+Insert "org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_months1(0)" "a6cb59ed2280ab0a32995fa8b5f1a7b0d47cb815"
+Insert "org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_monthsWeeks(0)" "a6cb59ed2280ab0a32995fa8b5f1a7b0d47cb815"
+Insert "org.joda.time.TestPeriod_Basics.MockPeriod.serialVersionUID" "a6cb59ed2280ab0a32995fa8b5f1a7b0d47cb815"
+Insert "org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_months3(0)" "a6cb59ed2280ab0a32995fa8b5f1a7b0d47cb815"
+Insert "org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_months2(0)" "a6cb59ed2280ab0a32995fa8b5f1a7b0d47cb815"
+Update "org.joda.time.Period.normalizedStandard(1)" "a6cb59ed2280ab0a32995fa8b5f1a7b0d47cb815"
+Insert "org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_years(0)" "a6cb59ed2280ab0a32995fa8b5f1a7b0d47cb815"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

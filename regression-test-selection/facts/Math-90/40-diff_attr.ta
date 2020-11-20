@@ -1,0 +1,4 @@
+FACT ATTRIBUTE :
+(Insert "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable(0)" "0c84b28c3542f3340f7ec0dffc34c60dff66604e") { name = "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable()" commit_parent = "43336b08c6c27d55c1c6e8c1b6330cb44a29044e" commit = "0c84b28c3542f3340f7ec0dffc34c60dff66604e" }
+(Insert "org.apache.commons.math.stat.Frequency.addValue(1)" "0c84b28c3542f3340f7ec0dffc34c60dff66604e") { name = "org.apache.commons.math.stat.Frequency.addValue(Comparable<?>)" commit_parent = "43336b08c6c27d55c1c6e8c1b6330cb44a29044e" commit = "0c84b28c3542f3340f7ec0dffc34c60dff66604e" }
+(Update "org.apache.commons.math.stat.Frequency.addValue(1)" "0c84b28c3542f3340f7ec0dffc34c60dff66604e") { name = "org.apache.commons.math.stat.Frequency.addValue(Object)" commit_parent = "43336b08c6c27d55c1c6e8c1b6330cb44a29044e" commit = "0c84b28c3542f3340f7ec0dffc34c60dff66604e" }

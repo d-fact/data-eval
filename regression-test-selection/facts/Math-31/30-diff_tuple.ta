@@ -1,0 +1,13 @@
+FACT TUPLE :
+Insert "org.apache.commons.math3.distribution.FDistributionTest.testMath785(0)" "2d846db3aec18dd081e680be05f6e0faad1cb186"
+Insert "org.apache.commons.math3.distribution.BinomialDistributionTest.testMath718(0)" "2d846db3aec18dd081e680be05f6e0faad1cb186"
+Update "org.apache.commons.math3.util.ContinuedFraction.evaluate(3)" "2d846db3aec18dd081e680be05f6e0faad1cb186"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

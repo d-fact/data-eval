@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math.util.MathUtils.distance(2)" "138baec1c778c2ea1dc1a6efe6d5e76a3b072b1d") { name = "org.apache.commons.math.util.MathUtils.distance(int[],int[])" commit_parent = "ca1ca9250b99dd49434468aa5530eb00b2f0680d" commit = "138baec1c778c2ea1dc1a6efe6d5e76a3b072b1d" }
+(Insert "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate(0)" "138baec1c778c2ea1dc1a6efe6d5e76a3b072b1d") { name = "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate()" commit_parent = "ca1ca9250b99dd49434468aa5530eb00b2f0680d" commit = "138baec1c778c2ea1dc1a6efe6d5e76a3b072b1d" }

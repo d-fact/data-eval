@@ -1,0 +1,15 @@
+org.apache.commons.csv.Constants	java.lang.Object
+org.apache.commons.csv.CSVPrinter$1	java.lang.Object
+org.apache.commons.csv.CSVFormat	java.lang.Object
+org.apache.commons.csv.Assertions	java.lang.Object
+org.apache.commons.csv.CSVParser	java.lang.Object
+org.apache.commons.csv.CSVParser$1	java.lang.Object
+org.apache.commons.csv.QuoteMode	java.lang.Enum
+org.apache.commons.csv.ExtendedBufferedReader	java.io.BufferedReader
+org.apache.commons.csv.CSVFormat$Predefined	java.lang.Enum
+org.apache.commons.csv.CSVRecord	java.lang.Object
+org.apache.commons.csv.Token$Type	java.lang.Enum
+org.apache.commons.csv.CSVPrinter	java.lang.Object
+org.apache.commons.csv.Token	java.lang.Object
+org.apache.commons.csv.CSVParser$2	java.lang.Object
+org.apache.commons.csv.Lexer	java.lang.Object

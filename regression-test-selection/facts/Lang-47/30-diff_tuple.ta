@@ -1,0 +1,14 @@
+FACT TUPLE :
+Update "org.apache.commons.lang.text.StrBuilder.appendFixedWidthPadLeft(3)" "d5e343049c2610c31ddacb24f0d173942f6d5ac9"
+Insert "org.apache.commons.lang.text.StrBuilderTest.testLang412Left(0)" "d5e343049c2610c31ddacb24f0d173942f6d5ac9"
+Insert "org.apache.commons.lang.text.StrBuilderTest.testLang412Right(0)" "d5e343049c2610c31ddacb24f0d173942f6d5ac9"
+Update "org.apache.commons.lang.text.StrBuilder.appendFixedWidthPadRight(3)" "d5e343049c2610c31ddacb24f0d173942f6d5ac9"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

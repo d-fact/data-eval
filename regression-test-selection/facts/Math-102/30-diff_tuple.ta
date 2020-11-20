@@ -1,0 +1,9 @@
+FACT TUPLE :
+Update "org.apache.commons.math.stat.inference.TestUtilsTest.testChiSquareLargeTestStatistic()" "a1bac127067c912b4a9f7a2957c427853a36c730"
+Update "org.apache.commons.math.stat.inference.ChiSquareTestTest.testChiSquareLargeTestStatistic()" "a1bac127067c912b4a9f7a2957c427853a36c730"
+Update "org.apache.commons.math.stat.inference.ChiSquareTestTest.testChiSquare()" "a1bac127067c912b4a9f7a2957c427853a36c730"
+Update "org.apache.commons.math.stat.inference.TestUtilsTest.testChiSquare()" "a1bac127067c912b4a9f7a2957c427853a36c730"
+Update "org.apache.commons.math.stat.inference.ChiSquareTestImpl.chiSquare(double[],long[])" "a1bac127067c912b4a9f7a2957c427853a36c730"
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

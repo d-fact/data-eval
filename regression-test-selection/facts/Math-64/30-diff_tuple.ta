@@ -1,0 +1,14 @@
+FACT TUPLE :
+Update "org.apache.commons.math.optimization.general.MinpackTest.testMinpackFreudensteinRoth(0)" "7dadc2ab019f066a7a287376ad4c63193e8a0a9a"
+Update "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer.getChiSquare(0)" "7dadc2ab019f066a7a287376ad4c63193e8a0a9a"
+Update "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer.doOptimize(0)" "7dadc2ab019f066a7a287376ad4c63193e8a0a9a"
+Update "org.apache.commons.math.optimization.general.MinpackTest.testMinpackJennrichSampson(0)" "7dadc2ab019f066a7a287376ad4c63193e8a0a9a"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

@@ -1,0 +1,12 @@
+FACT TUPLE :
+Update "org.joda.time.DateTimeZone.forOffsetHoursMinutes(2)" "362ed1787724cda3ded37de2b0aa0f13adf0a66e"
+Update "org.joda.time.TestDateTimeZone.testForOffsetHoursMinutes_int_int(0)" "362ed1787724cda3ded37de2b0aa0f13adf0a66e"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

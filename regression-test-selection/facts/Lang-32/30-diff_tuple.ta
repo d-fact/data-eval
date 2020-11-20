@@ -1,0 +1,17 @@
+FACT TUPLE :
+Delete "org.apache.commons.lang3.builder.HashCodeBuilder.registry" "006fca88e86bd6f650d4d021d2ff3573a572827d"
+Update "org.apache.commons.lang3.builder.HashCodeBuilder.getRegistry(0)" "006fca88e86bd6f650d4d021d2ff3573a572827d"
+Update "org.apache.commons.lang3.builder.HashCodeBuilder.register(1)" "006fca88e86bd6f650d4d021d2ff3573a572827d"
+Update "org.apache.commons.lang3.builder.HashCodeBuilder.unregister(1)" "006fca88e86bd6f650d4d021d2ff3573a572827d"
+Update "org.apache.commons.lang3.builder.HashCodeBuilder.isRegistered(1)" "006fca88e86bd6f650d4d021d2ff3573a572827d"
+Update "org.apache.commons.lang3.builder.HashCodeBuilderTest.testReflectionObjectCycle(0)" "006fca88e86bd6f650d4d021d2ff3573a572827d"
+Insert "org.apache.commons.lang3.builder.HashCodeBuilder.REGISTRY" "006fca88e86bd6f650d4d021d2ff3573a572827d"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

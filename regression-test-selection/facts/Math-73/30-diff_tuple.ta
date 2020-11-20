@@ -1,0 +1,14 @@
+FACT TUPLE :
+Update "org.apache.commons.math.analysis.solvers.BrentSolver.solve(4)" "29c3b75e2d5120771ca85ffcbffc9b7cb5d45c58"
+Update "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints(0)" "29c3b75e2d5120771ca85ffcbffc9b7cb5d45c58"
+Insert "org.apache.commons.math.analysis.solvers.BrentSolver.NON_BRACKETING_MESSAGE" "29c3b75e2d5120771ca85ffcbffc9b7cb5d45c58"
+Update "org.apache.commons.math.analysis.solvers.BrentSolver.solve(3)" "29c3b75e2d5120771ca85ffcbffc9b7cb5d45c58"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

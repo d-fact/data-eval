@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.lang.WordUtilsTest.testAbbreviate(0)" "d95fcd8e24568b4f9d3cb9da922a4029e293c793") { name = "org.apache.commons.lang.WordUtilsTest.testAbbreviate()" commit_parent = "cfff06bead88e2c1bb164285f89503a919e0e27f" commit = "d95fcd8e24568b4f9d3cb9da922a4029e293c793" }
+(Update "org.apache.commons.lang.WordUtils.abbreviate(4)" "d95fcd8e24568b4f9d3cb9da922a4029e293c793") { name = "org.apache.commons.lang.WordUtils.abbreviate(String,int,int,String)" commit_parent = "cfff06bead88e2c1bb164285f89503a919e0e27f" commit = "d95fcd8e24568b4f9d3cb9da922a4029e293c793" }

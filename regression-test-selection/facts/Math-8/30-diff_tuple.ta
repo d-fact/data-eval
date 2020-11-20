@@ -1,0 +1,12 @@
+FACT TUPLE :
+Update "org.apache.commons.math3.distribution.DiscreteDistribution.sample(1)" "196e63174afdb3df1529c1b97bb8437b16831cc3"
+Insert "org.apache.commons.math3.distribution.DiscreteRealDistributionTest.testIssue942(0)" "196e63174afdb3df1529c1b97bb8437b16831cc3"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

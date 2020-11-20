@@ -1,0 +1,14 @@
+FACT TUPLE :
+Update "org.apache.commons.math.linear.EigenDecompositionImpl.findEigenVectors(1)" "a4f9188a55e6935d4d38ae97806af4d59e671588"
+Update "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer.getRMS(0)" "a4f9188a55e6935d4d38ae97806af4d59e671588"
+Update "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer.getChiSquare(0)" "a4f9188a55e6935d4d38ae97806af4d59e671588"
+Update "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting(0)" "a4f9188a55e6935d4d38ae97806af4d59e671588"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

@@ -1,0 +1,15 @@
+FACT TUPLE :
+Update "org.apache.commons.math.util.MathUtils.gcd(2)" "58b5609fe8f99aabc990d885bf6c4d85631b7c79"
+Update "org.apache.commons.math.util.MathUtils.lcm(2)" "58b5609fe8f99aabc990d885bf6c4d85631b7c79"
+Update "org.apache.commons.math.MessagesResources_fr.contents" "58b5609fe8f99aabc990d885bf6c4d85631b7c79"
+Update "org.apache.commons.math.util.MathUtilsTest.testLcm(0)" "58b5609fe8f99aabc990d885bf6c4d85631b7c79"
+Update "org.apache.commons.math.util.MathUtilsTest.testGcd(0)" "58b5609fe8f99aabc990d885bf6c4d85631b7c79"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

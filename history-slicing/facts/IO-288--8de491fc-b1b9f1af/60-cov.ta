@@ -1,0 +1,12 @@
+FACT TUPLE :
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader"
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader.FilePart.readLine(0)"
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader.FilePart"
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader.ReversedLinesFileReader(3)"
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader.readLine(0)"
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader.FilePart.FilePart(3)"
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader.FilePart.rollOver(0)"
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader.FilePart.getNewLineMatchByteCount(2)"
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader.trailingNewlineOfFileSkipped"
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader.close(0)"
+Coverage "test" "org.apache.commons.io.input.ReversedLinesFileReader.FilePart.createLeftOver(0)"

@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math.optimization.linear.SimplexSolver.getPivotRow(2)" "4ece1884cc408e15c8f1db9010fec5cac43937b9") { name = "org.apache.commons.math.optimization.linear.SimplexSolver.getPivotRow(int,SimplexTableau)" commit_parent = "f36be8e8b7371fb8814456b6c095866aa802de78" commit = "4ece1884cc408e15c8f1db9010fec5cac43937b9" }
+(Insert "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath288(0)" "4ece1884cc408e15c8f1db9010fec5cac43937b9") { name = "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath288()" commit_parent = "f36be8e8b7371fb8814456b6c095866aa802de78" commit = "4ece1884cc408e15c8f1db9010fec5cac43937b9" }

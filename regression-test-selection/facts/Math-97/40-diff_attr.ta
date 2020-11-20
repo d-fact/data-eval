@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math.analysis.BrentSolver.solve(2)" "ed492bd0c5c5c3a0258a65cb31cc8723d8f011fd") { name = "org.apache.commons.math.analysis.BrentSolver.solve(double,double)" commit_parent = "7cf0c980d5d814daf187502bc07da0542ed7a828" commit = "ed492bd0c5c5c3a0258a65cb31cc8723d8f011fd" }
+(Insert "org.apache.commons.math.analysis.BrentSolverTest.testRootEndpoints(0)" "ed492bd0c5c5c3a0258a65cb31cc8723d8f011fd") { name = "org.apache.commons.math.analysis.BrentSolverTest.testRootEndpoints()" commit_parent = "7cf0c980d5d814daf187502bc07da0542ed7a828" commit = "ed492bd0c5c5c3a0258a65cb31cc8723d8f011fd" }

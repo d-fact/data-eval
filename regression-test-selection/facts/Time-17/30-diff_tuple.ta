@@ -1,0 +1,14 @@
+FACT TUPLE :
+Insert "org.joda.time.TestDateTimeZoneCutover.testBug3476684_adjustOffset(0)" "a8913f5ad5dfde59263c981c9e9eb28e43fd2e00"
+Insert "org.joda.time.TestDateTimeZoneCutover.testBug3476684_adjustOffset_springGap(0)" "a8913f5ad5dfde59263c981c9e9eb28e43fd2e00"
+Update "org.joda.time.DateTimeZone.adjustOffset(2)" "a8913f5ad5dfde59263c981c9e9eb28e43fd2e00"
+Update "org.joda.time.TestDateTimeZoneCutover.testBug3192457_adjustOffset(0)" "a8913f5ad5dfde59263c981c9e9eb28e43fd2e00"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

@@ -1,0 +1,12 @@
+FACT TUPLE :
+Update "org.apache.commons.math.optimization.linear.SimplexTableau.getBasicRow(1)" "75f5c92aeb47e264c196a8c38a495adac89f493c"
+Insert "org.apache.commons.math.optimization.linear.SimplexSolverTest.testSingleVariableAndConstraint(0)" "75f5c92aeb47e264c196a8c38a495adac89f493c"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

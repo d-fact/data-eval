@@ -1,0 +1,14 @@
+FACT TUPLE :
+Insert "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator(0)" "1a15d5f4c13eca0435b0ed7e6a624064e7f7e07f"
+Update "org.apache.commons.math.fraction.BigFraction.floatValue(0)" "1a15d5f4c13eca0435b0ed7e6a624064e7f7e07f"
+Update "org.apache.commons.math.fraction.BigFraction.doubleValue(0)" "1a15d5f4c13eca0435b0ed7e6a624064e7f7e07f"
+Insert "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator(0)" "1a15d5f4c13eca0435b0ed7e6a624064e7f7e07f"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

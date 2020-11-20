@@ -1,0 +1,15 @@
+FACT TUPLE :
+Update "org.apache.commons.math.util.MathUtils.factorialLog(1)" "7cd3d822b65b7acdd1f6e1c82b291cd994f4fe05"
+Update "org.apache.commons.math.util.MathUtils.factorial(1)" "7cd3d822b65b7acdd1f6e1c82b291cd994f4fe05"
+Insert "org.apache.commons.math.util.MathUtils.factorials" "7cd3d822b65b7acdd1f6e1c82b291cd994f4fe05"
+Update "org.apache.commons.math.util.MathUtils.factorialDouble(1)" "7cd3d822b65b7acdd1f6e1c82b291cd994f4fe05"
+Update "org.apache.commons.math.util.MathUtilsTest.testFactorial(0)" "7cd3d822b65b7acdd1f6e1c82b291cd994f4fe05"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

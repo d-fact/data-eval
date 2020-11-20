@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.apache.commons.math3.optimization.direct.CMAESOptimizer.doOptimize(0)" "efa9de05114492ca38cf4739a07339f5ad6faddc"
+Insert "org.apache.commons.math3.optimization.direct.CMAESOptimizer.FitnessFunction.repairAndDecode(1)" "efa9de05114492ca38cf4739a07339f5ad6faddc"
+Insert "org.apache.commons.math3.optimization.direct.CMAESOptimizerTest.testMath864(0)" "efa9de05114492ca38cf4739a07339f5ad6faddc"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

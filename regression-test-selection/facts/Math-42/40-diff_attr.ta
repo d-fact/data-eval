@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math.optimization.linear.SimplexTableau.getSolution(0)" "e98a5000cd211539bf4ba65f62cc7f81395e1726") { name = "org.apache.commons.math.optimization.linear.SimplexTableau.getSolution()" commit_parent = "800943ecf2e3ecf9258d8fdf8052e9273b816a97" commit = "e98a5000cd211539bf4ba65f62cc7f81395e1726" }
+(Insert "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath713NegativeVariable(0)" "e98a5000cd211539bf4ba65f62cc7f81395e1726") { name = "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath713NegativeVariable()" commit_parent = "800943ecf2e3ecf9258d8fdf8052e9273b816a97" commit = "e98a5000cd211539bf4ba65f62cc7f81395e1726" }

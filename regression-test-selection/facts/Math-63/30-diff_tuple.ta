@@ -1,0 +1,15 @@
+FACT TUPLE :
+Update "org.apache.commons.math.util.MathUtilsTest.testArrayEquals(0)" "d2a5bc02c002acfa220ce8bad23b9e8af137f47d"
+Update "org.apache.commons.math.util.MathUtils.roundUnscaled(3)" "d2a5bc02c002acfa220ce8bad23b9e8af137f47d"
+Delete "org.apache.commons.math.util.MathUtils.nextAfter(2)" "d2a5bc02c002acfa220ce8bad23b9e8af137f47d"
+Update "org.apache.commons.math.util.MathUtils.equals(2)" "d2a5bc02c002acfa220ce8bad23b9e8af137f47d"
+Delete "org.apache.commons.math.util.MathUtils.checkOrder(3)" "d2a5bc02c002acfa220ce8bad23b9e8af137f47d"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

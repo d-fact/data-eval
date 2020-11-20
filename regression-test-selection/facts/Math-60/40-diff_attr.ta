@@ -1,0 +1,3 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues(0)" "9054aac4b948117b838d6a5b15be1f50965d805a") { name = "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues()" commit_parent = "87430634d19f8f3af1e0019f733afb578c80d669" commit = "9054aac4b948117b838d6a5b15be1f50965d805a" }
+(Update "org.apache.commons.math.distribution.NormalDistributionImpl.cumulativeProbability(1)" "9054aac4b948117b838d6a5b15be1f50965d805a") { name = "org.apache.commons.math.distribution.NormalDistributionImpl.cumulativeProbability(double)" commit_parent = "87430634d19f8f3af1e0019f733afb578c80d669" commit = "9054aac4b948117b838d6a5b15be1f50965d805a" }

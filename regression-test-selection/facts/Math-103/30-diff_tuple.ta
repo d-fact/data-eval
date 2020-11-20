@@ -1,0 +1,12 @@
+FACT TUPLE :
+Insert "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues(0)" "4ce05bcd51ec956d789d20b59c743603d24a8ab7"
+Update "org.apache.commons.math.distribution.NormalDistributionImpl.cumulativeProbability(1)" "4ce05bcd51ec956d789d20b59c743603d24a8ab7"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

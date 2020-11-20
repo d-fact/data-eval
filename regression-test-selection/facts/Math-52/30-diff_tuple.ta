@@ -1,0 +1,13 @@
+FACT TUPLE :
+Update "org.apache.commons.math.geometry.euclidean.threed.Rotation.Rotation(2)" "3c319db494928e9d51ea6091b301302c65f4eceb"
+Insert "org.apache.commons.math.geometry.euclidean.threed.RotationTest.testIssue639(0)" "3c319db494928e9d51ea6091b301302c65f4eceb"
+Update "org.apache.commons.math.geometry.euclidean.threed.Rotation.Rotation(4)" "3c319db494928e9d51ea6091b301302c65f4eceb"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

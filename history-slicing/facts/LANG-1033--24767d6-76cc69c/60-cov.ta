@@ -1,0 +1,7 @@
+FACT TUPLE :
+Coverage "test" "org.apache.commons.lang3.StringUtils.countMatches(2)"
+Coverage "test" "org.apache.commons.lang3.StringUtils"
+Coverage "test" "org.apache.commons.lang3.StringUtils.isEmpty(1)"
+Coverage "test" "org.apache.commons.lang3.CharSequenceUtils.indexOf(3)"
+Coverage "test" "org.apache.commons.lang3.StringUtils.countMatches(2)"
+Coverage "test" "org.apache.commons.lang3.CharSequenceUtils"

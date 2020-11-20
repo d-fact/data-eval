@@ -1,0 +1,12 @@
+FACT TUPLE :
+Update "org.apache.commons.math.analysis.BrentSolver.solve(2)" "ed492bd0c5c5c3a0258a65cb31cc8723d8f011fd"
+Insert "org.apache.commons.math.analysis.BrentSolverTest.testRootEndpoints(0)" "ed492bd0c5c5c3a0258a65cb31cc8723d8f011fd"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

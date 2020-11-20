@@ -1,0 +1,14 @@
+FACT TUPLE :
+Delete "org.apache.commons.lang3.ArrayUtilsAddTest.suite(0)" "ea140fb5c327e2b58f6c5bf1057c7dede909a50c"
+Insert "org.apache.commons.lang3.ArrayUtilsAddTest.testJira567(0)" "ea140fb5c327e2b58f6c5bf1057c7dede909a50c"
+Update "org.apache.commons.lang3.ArrayUtils.addAll(2)" "ea140fb5c327e2b58f6c5bf1057c7dede909a50c"
+Delete "org.apache.commons.lang3.ArrayUtilsAddTest.main(1)" "ea140fb5c327e2b58f6c5bf1057c7dede909a50c"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

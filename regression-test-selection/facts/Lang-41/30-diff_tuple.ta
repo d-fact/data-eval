@@ -1,0 +1,15 @@
+FACT TUPLE :
+Update "org.apache.commons.lang.ClassUtils.getPackageName(1)" "4d3629f310e84cc24c0e5f09d97f5126692d0128"
+Update "org.apache.commons.lang.ClassUtils.getShortClassName(1)" "4d3629f310e84cc24c0e5f09d97f5126692d0128"
+Update "org.apache.commons.lang.ClassUtilsTest.test_getShortClassName_Class(0)" "4d3629f310e84cc24c0e5f09d97f5126692d0128"
+Update "org.apache.commons.lang.ClassUtils.getPackageName(1)" "4d3629f310e84cc24c0e5f09d97f5126692d0128"
+Update "org.apache.commons.lang.ClassUtilsTest.test_getPackageName_Class(0)" "4d3629f310e84cc24c0e5f09d97f5126692d0128"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

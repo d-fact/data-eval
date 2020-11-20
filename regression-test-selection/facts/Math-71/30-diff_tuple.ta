@@ -1,0 +1,16 @@
+FACT TUPLE :
+Update "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegrator.integrate(5)" "6537e18ad189603e19615226e6aa1a9cdd154b8f"
+Update "org.apache.commons.math.ode.nonstiff.EmbeddedRungeKuttaIntegrator.integrate(5)" "6537e18ad189603e19615226e6aa1a9cdd154b8f"
+Update "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator.integrate(5)" "6537e18ad189603e19615226e6aa1a9cdd154b8f"
+Insert "org.apache.commons.math.ode.nonstiff.DormandPrince853IntegratorTest.testMissedEndEvent(0)" "6537e18ad189603e19615226e6aa1a9cdd154b8f"
+Update "org.apache.commons.math.ode.nonstiff.AdamsBashforthIntegrator.integrate(5)" "6537e18ad189603e19615226e6aa1a9cdd154b8f"
+Insert "org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaIntegratorTest.testMissedEndEvent(0)" "6537e18ad189603e19615226e6aa1a9cdd154b8f"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

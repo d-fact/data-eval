@@ -1,0 +1,4 @@
+#+TITLE: Facts and Query Scripts
+
+
+There are =facts/= and =query/= sub-directories, storing example facts and query scritps used for evluations.

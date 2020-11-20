@@ -1,0 +1,13 @@
+FACT TUPLE :
+Insert "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable(0)" "0c84b28c3542f3340f7ec0dffc34c60dff66604e"
+Insert "org.apache.commons.math.stat.Frequency.addValue(1)" "0c84b28c3542f3340f7ec0dffc34c60dff66604e"
+Update "org.apache.commons.math.stat.Frequency.addValue(1)" "0c84b28c3542f3340f7ec0dffc34c60dff66604e"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

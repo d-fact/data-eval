@@ -1,0 +1,15 @@
+FACT TUPLE :
+Update "org.apache.commons.math.linear.OpenMapRealVector.ebeDivide(1)" "09e35881f1ad74335707e70aa78fd347e37d1066"
+Update "org.apache.commons.math.linear.OpenMapRealVector.ebeMultiply(1)" "09e35881f1ad74335707e70aa78fd347e37d1066"
+Insert "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification(0)" "09e35881f1ad74335707e70aa78fd347e37d1066"
+Update "org.apache.commons.math.linear.OpenMapRealVector.ebeMultiply(1)" "09e35881f1ad74335707e70aa78fd347e37d1066"
+Update "org.apache.commons.math.linear.OpenMapRealVector.ebeDivide(1)" "09e35881f1ad74335707e70aa78fd347e37d1066"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

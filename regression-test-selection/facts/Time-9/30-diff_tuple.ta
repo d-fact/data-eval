@@ -1,0 +1,15 @@
+FACT TUPLE :
+Insert "org.joda.time.DateTimeZone.MAX_MILLIS" "96f586cb8dac7eee62e9be519a3eab125c47bb23"
+Update "org.joda.time.DateTimeZone.forOffsetHoursMinutes(2)" "96f586cb8dac7eee62e9be519a3eab125c47bb23"
+Update "org.joda.time.DateTimeZone.forOffsetMillis(1)" "96f586cb8dac7eee62e9be519a3eab125c47bb23"
+Update "org.joda.time.TestDateTimeZone.testForOffsetHoursMinutes_int_int(0)" "96f586cb8dac7eee62e9be519a3eab125c47bb23"
+Update "org.joda.time.TestDateTimeZone.testForOffsetMillis_int(0)" "96f586cb8dac7eee62e9be519a3eab125c47bb23"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

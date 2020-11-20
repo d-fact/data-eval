@@ -1,0 +1,14 @@
+FACT TUPLE :
+Insert "org.apache.commons.math3.distribution.RealDistributionAbstractTest.testIsSupportLowerBoundInclusive(0)" "b0cba9a79ee99b09958dec8e40c75bed47b7f780"
+Update "org.apache.commons.math3.distribution.UniformRealDistribution.isSupportUpperBoundInclusive(0)" "b0cba9a79ee99b09958dec8e40c75bed47b7f780"
+Update "org.apache.commons.math3.distribution.FDistribution.isSupportLowerBoundInclusive(0)" "b0cba9a79ee99b09958dec8e40c75bed47b7f780"
+Insert "org.apache.commons.math3.distribution.RealDistributionAbstractTest.testIsSupportUpperBoundInclusive(0)" "b0cba9a79ee99b09958dec8e40c75bed47b7f780"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

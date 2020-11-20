@@ -1,0 +1,14 @@
+FACT TUPLE :
+Insert "org.apache.commons.math.stat.descriptive.SummaryStatisticsTest.testOverrideMeanWithMathClass(0)" "dcae84b2e8f025e93340307d8bc04d406202c323"
+Update "org.apache.commons.math.stat.descriptive.SummaryStatistics.addValue(1)" "dcae84b2e8f025e93340307d8bc04d406202c323"
+Insert "org.apache.commons.math.stat.descriptive.SummaryStatisticsTest.testOverrideGeoMeanWithMathClass(0)" "dcae84b2e8f025e93340307d8bc04d406202c323"
+Insert "org.apache.commons.math.stat.descriptive.SummaryStatisticsTest.testOverrideVarianceWithMathClass(0)" "dcae84b2e8f025e93340307d8bc04d406202c323"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

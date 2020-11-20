@@ -1,0 +1,15 @@
+FACT TUPLE :
+Insert "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive(0)" "875ed1f4d90d1457c0ab40dafc79be5a0c6f9bf6"
+Insert "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative(0)" "875ed1f4d90d1457c0ab40dafc79be5a0c6f9bf6"
+Update "org.apache.commons.math3.util.FastMath.sinh(1)" "875ed1f4d90d1457c0ab40dafc79be5a0c6f9bf6"
+Insert "org.apache.commons.math3.util.FastMath.LOG_MAX_VALUE" "875ed1f4d90d1457c0ab40dafc79be5a0c6f9bf6"
+Update "org.apache.commons.math3.util.FastMath.cosh(1)" "875ed1f4d90d1457c0ab40dafc79be5a0c6f9bf6"
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Delete NONE NONE
+Insert NONE NONE
+Update NONE NONE
+Insert NONE NONE
+Delete NONE NONE
+Update NONE NONE

@@ -1,0 +1,4 @@
+FACT ATTRIBUTE :
+(Update "org.apache.commons.math3.dfp.Dfp.multiply(1)" "621806b796bc416f00341feca894ebae07be5ed0") { name = "org.apache.commons.math3.dfp.Dfp.multiply(int)" commit_parent = "07611165b6176b6e3e6d5ac6ca052a102f10e3c4" commit = "621806b796bc416f00341feca894ebae07be5ed0" }
+(Insert "org.apache.commons.math3.dfp.Dfp.multiplyFast(1)" "621806b796bc416f00341feca894ebae07be5ed0") { name = "org.apache.commons.math3.dfp.Dfp.multiplyFast(int)" commit_parent = "07611165b6176b6e3e6d5ac6ca052a102f10e3c4" commit = "621806b796bc416f00341feca894ebae07be5ed0" }
+(Update "org.apache.commons.math3.dfp.DfpTest.testMultiply(0)" "621806b796bc416f00341feca894ebae07be5ed0") { name = "org.apache.commons.math3.dfp.DfpTest.testMultiply()" commit_parent = "07611165b6176b6e3e6d5ac6ca052a102f10e3c4" commit = "621806b796bc416f00341feca894ebae07be5ed0" }
